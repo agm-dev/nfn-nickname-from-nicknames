@@ -1,6 +1,6 @@
 {
   "name": "nfn",
-  "version": "0.0.9",
+  "version": "1.0.0",
   "description": "Generates random nicknames using sections from other nicknames provided",
   "main": "index.js",
   "directories": {
