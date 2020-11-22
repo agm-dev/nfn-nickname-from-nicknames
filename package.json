@@ -1,0 +1,14 @@
+{
+  "name": "nfn",
+  "version": "0.0.9",
+  "description": "Generates random nicknames using sections from other nicknames provided",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "agm-dev",
+  "license": "MIT"
+}
